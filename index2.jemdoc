@@ -1,0 +1,4 @@
+# jemdoc: menu{MENU}{example.html}
+
+= jemdoc -- example page
+[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu]) 

@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{research.html}
+
+== Research Interest\n
+
+My research interest lies in the area of [https://en.wikipedia.org/wiki/Reinforcement_learning Reinforcement Learning (RL)]. RL is a framework for problems involving sequential decision making (e.g., [https://en.wikipedia.org/wiki/Chess Chess], [https://en.wikipedia.org/wiki/Adaptive_traffic_control Traffic Signal Control], [https://www.youtube.com/watch?v=W_gxLKSsSIE Robot Navigation]) in the face of uncertainty. Such problems arise in a number of domains, wherever decisions need to be made sequentially and there is a cost or reward associated with every decision. RL theory is developed on the Markov Decision Process (MDP) and Dynamic Programming framework. My work involves modeling problems in the RL framework and building algorithms to find optimal policies. I have looked at problems in Product pricing and Energy Harvesting Sesnor Networks. 
+
+
+
+

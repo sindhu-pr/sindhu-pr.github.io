@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{publications.html}
+
+== Journal Publications
+\n
+- S. Chakravarty, Sindhu P.R. and S. Bhatnagar, "A simulation based algorithm for optimal pricing policy under demand uncertainty", International Transactions in Operational Research (Wiley), Volume 21, Issue 5, pages 737–760, September 2014. \[[http://stochastic.csa.iisc.ernet.in/~sindhupr/Saswata-Sindhu-Bhatnagar-ITOR.pdf pdf]]\n
+- Sindhu Padakandla, Prabuchandran K.J. and Shalabh Bhatnagar. “Energy Sharing for Multiple Sensor Nodes with Finite Buﬀers”, IEEE Transactions on Communications, 2015 (Accepted), doi:10.1109/TCOMM.2015.2415777. \[[http://arxiv.org/abs/1503.04964 Here]] is a detailed version of this work.
+
+== Conference Publications
+\n
+- R.K.Maity, Chandrashekar L., Sindhu P.R., and S.Bhatnagar, Shaping Proto-Value Functions using Rewards (Short Paper), Proceedings of European Conference on Artificial Intelligence (ECAI), The Hague, Netherlands, Aug.29-Sep.02, 2016\n
+- S.Kumar, Sindhu P.R., Chandrashekar L., P.Parihar, K.Gopinath and S.Bhatnagar, Scalable Performance Tuning of Hadoop MapReduce: A Noisy Gradient Approach, IEEE Cloud, Honolulu, Hawaii, June 25-30, 2017
+
