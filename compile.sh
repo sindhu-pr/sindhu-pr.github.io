@@ -1,17 +1,17 @@
-./jemdoc.py index.jemdoc 
-./jemdoc.py research.jemdoc 
-./jemdoc.py courses.jemdoc 
-./jemdoc.py ta.jemdoc 
-./jemdoc.py Thesis.jemdoc 
-./jemdoc.py publications.jemdoc 
-./jemdoc.py education.jemdoc 
-./jemdoc.py wexp.jemdoc 
-./jemdoc.py links.jemdoc 
-./jemdoc.py Interests.jemdoc 
-./jemdoc.py index.jemdoc 
-./jemdoc.py awards.jemdoc
-./jemdoc.py treks-trips.jemdoc
-./jemdoc.py moreinfo.jemdoc
-./jemdoc.py talks.jemdoc
-./jemdoc.py courseprojects.jemdoc
+python2 ./jemdoc.py index.jemdoc 
+python2 ./jemdoc.py research.jemdoc 
+python2 ./jemdoc.py courses.jemdoc 
+python2 ./jemdoc.py ta.jemdoc 
+python2 ./jemdoc.py Thesis.jemdoc 
+python2 ./jemdoc.py publications.jemdoc 
+python2 ./jemdoc.py education.jemdoc 
+python2 ./jemdoc.py wexp.jemdoc 
+python2 ./jemdoc.py links.jemdoc 
+python2 ./jemdoc.py Interests.jemdoc 
+python2 ./jemdoc.py index.jemdoc 
+python2 ./jemdoc.py awards.jemdoc
+python2 ./jemdoc.py treks-trips.jemdoc
+python2 ./jemdoc.py moreinfo.jemdoc
+python2 ./jemdoc.py talks.jemdoc
+python2 ./jemdoc.py courseprojects.jemdoc
 
